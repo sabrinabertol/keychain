@@ -1,0 +1,26 @@
+@import url('components/banner.css');
+@import url('components/buttons.css');
+@import url('components/getyours.css');
+
+
+body {
+  font-family: Verdana;
+  background-color: white;
+  color: black;
+}
+
+h1, h2, h3, h4, h5 {
+  font-weight: 700;
+}
+
+a {
+  text-decoration: none;
+  font-weight: 700;
+  color: black;
+}
+
+a:hover {
+  text-decoration: none;
+  font-weight: 900;
+  color: #666666;
+}
